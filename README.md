@@ -1,19 +1,14 @@
-   <h1>Interview Question</h1>
-
-<ul>
- <li>List out some of the extra features  in Java 8 ?</li> 
  
- <li>  explain lambda function ? </li> 
- 
- <li>  explain functional interface ? </li> 
+ <h1> Questions</h1>
 
- <li> can functional interface HAVE static / default method  ?</li> 
+
+
+- List out some of the extra features  in Java 8 ?
+- explain lambda function ?
+- explain functional interface ?
+ - can functional interface HAVE static / default method  ?
  ( It can have any number of default, static methods but can contain only one abstract method.)
-<li>  intermediate vs terminal operation </li> 
-
-<li>  predicate ,BiPredicate, function ,BiFunction, consumer, BiConsumer. </li> 
-
-<li> findFirst vs findAny </li>  
-
-<li>  IntStream  explain. </li> 
-</ul>
+- intermediate vs terminal opearation
+- predicate ,BiPredicate, function ,Bifunction, consumer, BiConsumer 
+- findFFisrt vs findAny 
+- IntStream  explain
